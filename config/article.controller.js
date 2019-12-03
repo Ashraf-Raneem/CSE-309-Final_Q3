@@ -26,7 +26,7 @@ module.exports.read = function(request, response){
                                 .json({msg: 'Could not query the db'})
             }
             console.log(data)
-            return response.render('article.ejs', {
+            return response.render('single.ejs', {
                 article:data[0]
             })
         })
