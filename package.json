@@ -1,0 +1,29 @@
+{
+  "name": "cse-309-final_q3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-3.3.1.min.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.5",
+    "mongoose": "^5.7.13",
+    "nodemon": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashraf-Raneem/CSE-309-Final_Q3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashraf-Raneem/CSE-309-Final_Q3/issues"
+  },
+  "homepage": "https://github.com/Ashraf-Raneem/CSE-309-Final_Q3#readme"
+}
